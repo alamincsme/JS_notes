@@ -5,7 +5,7 @@ console.log(scores) ;
 
 scores.unshift(0) // add element to font of arra. 
 console.log(scores)  
-
+//print scores len 
 console.log(`len of arra : ${scores.length}`)
 
 
